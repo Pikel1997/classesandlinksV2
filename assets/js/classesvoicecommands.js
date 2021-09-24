@@ -29,10 +29,7 @@ if (annyang) {
         'cn': () => { cnth(); },
         'close cn': () => { closecnth(); },
         'd a a': () => { daath(); },
-        'close d a a': () => { closedaath(); },
-        
-        
-        
+        'close d a a': () => { closedaath(); },   
     };
     
     

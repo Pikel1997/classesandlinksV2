@@ -4,13 +4,9 @@
     }
     to {
       transform: scale(1);
-    }
-    
-  
- 
-    
+    } 
   }
   .box1{
-   animation: createBox 1.5s ;
+   animation: createBox 0.5s ;
   
 }
